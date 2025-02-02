@@ -1,27 +1,27 @@
-Bem-vindo! 👋
+## Bem-vindo! 👋
 
-Olá, sou Ricardo Costa Tortorelli, um contador de profissão, apaixonado por tecnologia e desenvolvimento de software.
+Olá, sou **Ricardo Costa Tortorelli**, um contador de profissão apaixonado por tecnologia e desenvolvimento de software.
 
 ---
 ## 🌟 Sobre mim.
 
-- 👨‍💻 Tenho 57 anos e sou natural de Porto Alegre–RS.
+- 👨‍💻 Tenho 57 anos e sou natural de **Porto Alegre–RS**.
 
-- ‍👩‍👧‍👧 Pai de duas filhas maravilhosas, casado com Letícia e apaixonado pela família.
+- ‍👩‍👧‍👧 Pai de duas filhas maravilhosas, casado com Letícia e **apaixonado pela família**.
 
-- 🏆 Após ter atuado por 35 anos, ininterruptamente, como contador, auditor, gestor financeiro e contábil e também conselheiro fiscal de empresas, chegou o momento da virada de chave e a meta é transformar e impactar a vida das pessoas e a trajetória das empresas por meio da tecnologia.
+- 🏆 Após ter atuado por 35 anos, ininterruptamente, como contador, auditor, gestor financeiro e contábil e também conselheiro fiscal de empresas, **chegou o momento da virada de chave** e a meta é **transformar** e **impactar** a vida das pessoas e a trajetória das empresas por meio da tecnologia.
 
-- 💻 Sempre a tecnologia e o desenvolvimento de software estiveram presentes na minha carreira profissional, tendo desenvolvido, ao longo dos anos, diversas soluções nas linguagens COBOL, CLIPPER, VBA e PHP para gestão financeira e contábil, impactando, desta forma, a tomada de decisão e o desempenho de empresas com bilhões de patrimônio.
+- 💻 **Sempre a tecnologia e o desenvolvimento de software estiveram presentes na minha carreira profissional**, tendo desenvolvido, ao longo dos anos, diversas soluções nas linguagens **COBOL, CLIPPER, VBA e PHP** para gestão financeira e contábil, impactando, desta forma, a tomada de decisão e o desempenho de empresas com bilhões de patrimônio.
 
-- 🚀 Atualmente, estou focado em desenvolvimento web e aplicações empresariais.
+- 🚀 Atualmente, estou focado em **desenvolvimento web** para aplicações empresariais.
 
 ---
 
 ## 🎓 Formação Acadêmica e Especializações
 
-- Graduado em Ciências Contábeis pela PUC-Pontifícia Universidade Católica do RS.
+- Graduado em **Ciências Contábeis** pela **PUC-Pontifícia Universidade Católica do RS**.
 
-- Pós-graduado em Finanças Empresariais pela FGV-RJ.
+- Pós-graduado em **Finanças Empresariais** pela **FGV-RJ**.
 
 - **Mentorado de forma individual por 52 semanas** (1h50min por semana) em PHP 8.2 e Laravel 10 (Tio-jobs). [https://jobstreinamentos.com.br]
 
@@ -60,13 +60,19 @@ Olá, sou Ricardo Costa Tortorelli, um contador de profissão, apaixonado por te
 
 ---
 
-## 📊 Estatísticas GitHub
+[//]: # ()
+[//]: # (## 📊 Estatísticas GitHub)
 
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricktorelli-git&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricktorelli-git&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
-</div>
----
+[//]: # ()
+[//]: # (<div>)
+
+[//]: # (    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricktorelli-git&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>)
+
+[//]: # (    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricktorelli-git&layout=compact&langs_count=7&theme=dracula&count_private=true"/>)
+
+[//]: # (</div>)
+
+[//]: # (---)
 
 ## 📫 Como me encontrar
 <div>
