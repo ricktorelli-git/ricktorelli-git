@@ -21,7 +21,7 @@ Olá, sou **Ricardo Costa Tortorelli**, um contador de profissão apaixonado por
 
 - Graduado em **Ciências Contábeis** pela **PUC-Pontifícia Universidade Católica do RS**.
 
-- Pós-graduado em **Finanças Empresariais** pela **FGV-RJ**.
+- Pós-graduado em **MBA em Finanças Empresariais** pela **FGV-RJ**.
 
 - **Mentorado de forma individual por 52 semanas** (1h50min por semana) em PHP 8.2 e Laravel 10 (Tio-jobs). [https://jobstreinamentos.com.br]
 
