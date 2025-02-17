@@ -11,9 +11,9 @@ Olá, sou **Ricardo Costa Tortorelli**, um contador de profissão apaixonado por
 
 - 🏆 Após ter atuado por 35 anos, ininterruptamente, como contador, auditor, gestor financeiro e contábil e também conselheiro fiscal de empresas, **chegou o momento da virada de chave** e a meta é **transformar** e **impactar** a vida das pessoas e a trajetória das empresas por meio da tecnologia.
 
-- 💻 **Sempre a tecnologia e o desenvolvimento de software estiveram presentes na minha carreira profissional**, tendo desenvolvido, ao longo dos anos, diversas soluções nas linguagens **COBOL, CLIPPER, VBA e PHP** para gestão financeira e contábil, impactando, desta forma, a tomada de decisão e o desempenho de empresas com bilhões de patrimônio.
+- 💻 **Sempre a tecnologia e o desenvolvimento de software estiveram presentes na minha carreira profissional**, tendo desenvolvido, ao longo dos anos, diversas soluções nas linguagens **COBOL, CLIPPER, VBA e PHP** para gestão financeira e contábil, contribuindo com informações gerenciais para a tomada de decisão e o desempenho de empresas com bilhões de patrimônio.
 
-- 🚀 Atualmente, estou focado em **desenvolvimento web** para aplicações empresariais.
+- 🚀 Atualmente estou focado em **desenvolvimento web** para aplicações empresariais de pequeno e médio porte, com o objetivo de retirar a empresa do excel e dos controles paralelos.
 
 ---
 
