@@ -13,7 +13,7 @@ Olá, sou **Ricardo Costa Tortorelli**, um contador de profissão apaixonado por
 
 - 💻 **Sempre a tecnologia e o desenvolvimento de software estiveram presentes na minha carreira profissional**, tendo desenvolvido, ao longo dos anos, diversas soluções nas linguagens **COBOL, CLIPPER, VBA e PHP** para gestão financeira e contábil, contribuindo com informações gerenciais para a tomada de decisão e o desempenho de empresas com bilhões de patrimônio.
 
-- 🚀 Atualmente estou focado em **desenvolvimento web** para aplicações empresariais de pequeno e médio porte, com o objetivo de retirar a empresa do excel e dos controles paralelos.
+- 🚀 Atualmente estou focado em **desenvolvimento web** para aplicações empresariais que atendam empresas de pequeno e médio porte, com o objetivo de retirar a empresa do excel e dos controles paralelos, fomentando o crescimento consistente.
 
 ---
 
